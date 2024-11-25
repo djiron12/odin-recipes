@@ -1,1 +1,1 @@
-# odin-recipes
+ein paar Rezepte zur Übung
